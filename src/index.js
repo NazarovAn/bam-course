@@ -11,3 +11,6 @@ import './blocks/content/__how-it-works/steps__item.css';
 import './blocks/content/__partners/partners__title.css';
 import './blocks/content/__partners/partners__list.css';
 import './blocks/content/__partners/partners__button.css';
+import './blocks/content/__ideas/ideas.css';
+import './blocks/content/__ideas/ideas__slide-list.css';
+import './blocks/content/__ideas/ideas__slide.css';
