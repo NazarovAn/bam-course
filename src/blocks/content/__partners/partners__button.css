@@ -1,0 +1,13 @@
+.partners__button {
+  text-decoration: none;
+  border-radius: 25px;
+  border: 2px solid #ff4e50;
+  color: #ff4e50;
+  font-family: "Montserrat";
+  font-size: 14px;
+  padding: 12px 24px;
+  width: 192px;
+  margin: auto;
+  display: block;
+  text-align: center;
+}

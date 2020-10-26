@@ -4,4 +4,38 @@
   font-size: 22px;
   text-align: center;
   padding-top: 100px;
+  padding-bottom: 35px;
+}
+
+.partners-list-item__photo {
+  position: relative;
+}
+
+.partners__icon {
+  position: absolute;
+  z-index: 1;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  box-sizing: border-box;
+  padding: 8px;
+  right: 52px;
+  bottom: 0;
+  box-shadow: 0 0 0 3px #ffffff
+}
+
+.icon_red {
+  background-color: #ff4e50;
+}
+
+.icon_green {
+  background-color: #1cd7ad;
+}
+
+.icon_orange {
+  background-color: #ffa507;
+}
+
+.icon_blue {
+  background-color: #4e73db;
 }

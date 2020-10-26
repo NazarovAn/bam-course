@@ -10,3 +10,4 @@ import './blocks/content/__how-it-works/how-it-works__steps.css';
 import './blocks/content/__how-it-works/steps__item.css';
 import './blocks/content/__partners/partners__title.css';
 import './blocks/content/__partners/partners__list.css';
+import './blocks/content/__partners/partners__button.css';
