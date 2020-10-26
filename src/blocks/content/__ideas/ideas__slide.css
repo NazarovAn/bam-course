@@ -1,5 +1,11 @@
 .ideas__slide {
   position: relative;
+  margin-bottom: 20px;
+}
+
+.ideas__slide:last-child,
+.ideas__slide:nth-last-child(2) {
+  margin-bottom: 0;
 }
 
 .slide__text {
