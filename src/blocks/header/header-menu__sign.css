@@ -1,0 +1,17 @@
+.header-menu-sign__sign-in,
+.header-menu-sign__sign-up {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: "Montserrat";
+}
+
+.header-menu-sign__sign-up {
+  max-height: 36px;
+  padding: 10px 17px;
+  border: 2px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 30px;
+  margin-left: 20px;
+}

@@ -1,0 +1,7 @@
+.header__menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 38px 250px 153px 250px;
+  position: relative;
+  z-index: 1;
+}

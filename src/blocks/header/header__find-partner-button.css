@@ -1,0 +1,15 @@
+.header__find-partner-button {
+  display: block;
+  color: #ffffff;
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #ff4e50;
+  width: 225px;
+  margin: auto;
+  position: relative;
+  z-index: 1;
+  padding: 12px 22px;
+  text-align: center;
+  border-radius: 25px;
+}

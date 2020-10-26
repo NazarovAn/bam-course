@@ -1,0 +1,27 @@
+.header__promo {
+  position: relative;
+  z-index: 1;
+  padding-bottom: 40px;
+}
+
+.promo__baner_uppercase {
+  text-transform: uppercase;
+  font-size: 3.25rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+  color: #ffffff;
+  width: 33%;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.promo__text {
+  display: block;
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 1.5rem;
+  width: 33%;
+  margin: auto;
+  text-align: center;
+}
