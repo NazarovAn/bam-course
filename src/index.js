@@ -5,3 +5,6 @@ import './blocks/header/header-menu__logo.css';
 import './blocks/header/header-menu__sign.css';
 import './blocks/header/header__promo.css';
 import './blocks/header/header__find-partner-button.css';
+import './blocks/content/__how-it-works/how-it-works__title.css';
+import './blocks/content/__how-it-works/how-it-works__steps.css';
+import './blocks/content/__how-it-works/steps__item.css';
