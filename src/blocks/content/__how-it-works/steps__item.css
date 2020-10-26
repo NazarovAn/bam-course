@@ -12,15 +12,15 @@
 }
 
 .step-one {
-  background-image: url(/src/blocks/content/__how-it-works/img/step-one.jpg);
+  background-image: url(../__how-it-works/img/step-one.jpg);
 }
 
 .step-two {
-  background-image: url(/src/blocks/content/__how-it-works/img/step-two.jpg);
+  background-image: url(../__how-it-works/img/step-two.jpg);
 }
 
 .step-three {
-  background-image: url(/src/blocks/content/__how-it-works/img/step-three\ 4.jpg);
+  background-image: url(../__how-it-works/img/step-three.jpg);
 }
 
 .steps-item__number {
