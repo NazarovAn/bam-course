@@ -30,6 +30,16 @@ module.exports = {
           MiniCssExtractPlugin.loader, 'css-loader',
         ],
       },
+      {
+        test: /\.(png|jpg|gif|ico)$/i,
+        use: [{
+          loader: 'file-loader',
+          options: {
+            esModule: false,
+            name: '[name].[ext]',
+          },
+        }],
+      },
     ],
   },
   plugins: [
