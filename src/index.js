@@ -14,3 +14,6 @@ import './blocks/content/__partners/partners__button.css';
 import './blocks/content/__ideas/ideas.css';
 import './blocks/content/__ideas/ideas__slide-list.css';
 import './blocks/content/__ideas/ideas__slide.css';
+import './blocks/content/__partners-search/partners-search__text.css';
+import './blocks/content/__partners-search/partners-search.css';
+import './blocks/content/__partners-search/partners-search__form.css';
