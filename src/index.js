@@ -25,3 +25,5 @@ import './blocks/footer/developer-logo.css';
 import './blocks/header/header__menu_tablets.css';
 import './blocks/header/header_promo_tablets.css';
 import './blocks/header/header_tablets.css';
+import './blocks/content/__how-it-works/how-it-works__steps-tablets.css';
+import './blocks/content/__partners/partners_list-tablets.css';
