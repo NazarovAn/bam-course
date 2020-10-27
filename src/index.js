@@ -17,3 +17,8 @@ import './blocks/content/__ideas/ideas__slide.css';
 import './blocks/content/__partners-search/partners-search__text.css';
 import './blocks/content/__partners-search/partners-search.css';
 import './blocks/content/__partners-search/partners-search__form.css';
+import './blocks/footer/page__footer.css';
+import './blocks/footer/footer__logo.css';
+import './blocks/footer/footer__title.css';
+import './blocks/footer/footer-company__list.css';
+import './blocks/footer/developer-logo.css';

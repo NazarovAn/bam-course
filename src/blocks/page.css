@@ -13,3 +13,7 @@
   margin: 0;
   padding: 0;
 }
+
+.page__footer-divide-line {
+  border: 2px #ff4e50 solid;
+}

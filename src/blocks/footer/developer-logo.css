@@ -1,0 +1,14 @@
+.developer-logo {
+  position: absolute;
+  right: 0;
+  top: 40px;
+}
+
+.developer-logo__title {
+  font-family: "Montserrat";
+  font-size: 10px;
+  font-weight: bold;
+  color: #cccccc;
+  text-align: end;
+  padding-bottom: 10px;
+}

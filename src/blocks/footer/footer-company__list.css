@@ -1,0 +1,14 @@
+.footer__company{
+  flex-basis: 25%;
+}
+
+.footer-company-list__item {
+  list-style-type: none;
+}
+
+.footer-company-list-item__link {
+  text-decoration: none;
+  font-family: "Roboto";
+  font-size: 14px;
+  color: #666666;
+}
