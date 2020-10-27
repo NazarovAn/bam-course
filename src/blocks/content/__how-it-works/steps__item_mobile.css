@@ -1,0 +1,23 @@
+@media (max-width: 539px) {
+  .steps__item {
+    width: 100%;
+    min-height: 240px;
+    margin-bottom: 10px;
+  }
+
+  .steps__item:last-child {
+    margin-bottom: 0;
+  }
+
+  .step-one {
+    background-image: url(../__how-it-works/img/step-one-mobile.jpg);
+  }
+  
+  .step-two {
+    background-image: url(../__how-it-works/img/step-two-mobile.jpg);
+  }
+  
+  .step-three {
+    background-image: url(../__how-it-works/img/step-three-mobile.jpg);
+  }
+}

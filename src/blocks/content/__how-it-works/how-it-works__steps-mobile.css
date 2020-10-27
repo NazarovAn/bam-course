@@ -1,0 +1,5 @@
+@media (max-width: 539px) {
+  .how-it-works__steps {
+    flex-wrap: wrap;
+  }
+}

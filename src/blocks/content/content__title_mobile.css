@@ -1,0 +1,6 @@
+@media (max-width: 539px) {
+  .content__title {
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+}

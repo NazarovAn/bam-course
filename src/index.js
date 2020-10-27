@@ -32,3 +32,6 @@ import './blocks/header/header__promo_mobile.css';
 import './blocks/header/header-mobile.css';
 import './blocks/header/header__menu_mobile.css';
 import './blocks/header/header-menu__sign_mobile.css';
+import './blocks/content/content__title_mobile.css';
+import './blocks/content/__how-it-works/steps__item_mobile.css';
+import './blocks/content/__how-it-works/how-it-works__steps-mobile.css';
