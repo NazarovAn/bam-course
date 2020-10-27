@@ -1,4 +1,4 @@
-@media (max-width: 1024px) {
+@media (max-width: 1024px) and (min-width: 540px) {
   .header__menu {
     padding: 38px 50px 150px 50px;
   }

@@ -1,4 +1,4 @@
-@media (max-width: 1024px) {
+@media (max-width: 1024px) and (min-width: 540px) {
   .page__header {
     background-image: url('./img/header-tablet.jpg');
   }

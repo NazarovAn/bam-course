@@ -1,0 +1,20 @@
+@media (max-width: 539px) {
+  .header__menu {
+    padding: 38px 50px 150px 50px;
+  }
+
+  .promo__baner_uppercase {
+    font-size: 30px;
+    width: 90%;
+    padding-bottom: 10px;
+  }
+
+  .promo__text {
+    font-size: 18px;
+    width: 70%;
+  }
+
+  .header__promo {
+    padding-bottom: 15px;
+  }
+}

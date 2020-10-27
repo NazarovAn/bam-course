@@ -1,0 +1,6 @@
+@media (max-width: 539px) {
+  .page__header {
+    background-image: url('./img/header-mobile.jpg');
+    height: 540px;
+  }
+}
