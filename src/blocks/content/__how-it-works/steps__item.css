@@ -9,6 +9,18 @@
   padding: 20px;
   box-sizing: border-box;
   color: #ffffff;
+  position: relative;
+}
+
+.steps__item::after {
+  content: '';
+  background: linear-gradient(transparent, #000000);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.5;
 }
 
 .step-one {
@@ -21,6 +33,13 @@
 
 .step-three {
   background-image: url(../__how-it-works/img/step-three.jpg);
+}
+
+.steps-item__number,
+.steps-item__header,
+.steps-item__text {
+  position: relative;
+  z-index: 1;
 }
 
 .steps-item__number {
@@ -45,4 +64,5 @@
 .steps-item__text {
   font-family: "Roboto";
   font-size: 14px;
+  color: #cccccc;
 }
