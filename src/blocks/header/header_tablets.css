@@ -1,0 +1,5 @@
+@media (max-width: 1024px) {
+  .page__header {
+    background-image: url('./img/header-tablet.jpg');
+  }
+}

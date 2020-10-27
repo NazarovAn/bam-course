@@ -22,3 +22,6 @@ import './blocks/footer/footer__logo.css';
 import './blocks/footer/footer__title.css';
 import './blocks/footer/footer-company__list.css';
 import './blocks/footer/developer-logo.css';
+import './blocks/header/header__menu_tablets.css';
+import './blocks/header/header_promo_tablets.css';
+import './blocks/header/header_tablets.css';
