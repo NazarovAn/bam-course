@@ -1,0 +1,29 @@
+@media (max-width: 740px) {
+  .slide__sport-and-activity {
+    content: url('../__ideas/img/Sport-and-Activity-mobile.jpg');
+  }
+
+  .slide__wellnes-and-health {
+    content: url('../__ideas/img/Wellnes-and-Health-mobile.jpg');
+  }
+
+  .slide__extreme-sports {
+    content: url('../__ideas/img/Extreme-Sports-mobile.jpg');
+  }
+
+  .slide__games {
+    content: url('../__ideas/img/Games-mobile.jpg');
+  }
+
+  .slide__culture-and-education {
+    content: url('../__ideas/img/Culture-and-Education-mobile.jpg');
+  }
+
+  .slide__relaxation {
+    content: url('../__ideas/img/Relaxation-mobile.jpg');
+  }
+
+  .slide__travelling {
+    content: url('../__ideas/img/Travelling-mobile.jpg');
+  }
+}

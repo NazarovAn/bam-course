@@ -1,0 +1,5 @@
+@media (max-width: 539px) {
+  .ideas__slide-list {
+    justify-content: center;
+  }
+}

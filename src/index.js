@@ -42,3 +42,7 @@ import './blocks/footer/footer-company__list-mobile.css';
 import './blocks/footer/developer-logo-mobile.css';
 import './blocks/footer/footer__title-mobile.css';
 import './blocks/footer/footer__logo-mobile.css';
+import './blocks/content/__ideas/ideas__slide-tablets.css';
+import './blocks/content/__ideas/ideas__slide-list-tablets.css';
+import './blocks/content/__ideas/ideas__slide-mobile.css';
+import './blocks/content/__ideas/ideas__slide-list-mobile.css';

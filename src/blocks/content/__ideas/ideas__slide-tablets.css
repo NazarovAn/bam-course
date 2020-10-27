@@ -1,0 +1,29 @@
+@media (max-width: 1024px) and (min-width: 741px) {
+  .slide__sport-and-activity {
+    content: url('../__ideas/img/Sport-and-Activity-tablet.jpg');
+  }
+
+  .slide__wellnes-and-health {
+    content: url('../__ideas/img/Wellnes-and-Health-tablet.jpg');
+  }
+
+  .slide__extreme-sports {
+    content: url('../__ideas/img/Extreme-Sports-tablet.jpg');
+  }
+
+  .slide__games {
+    content: url('../__ideas/img/Games-tablet.jpg');
+  }
+
+  .slide__culture-and-education {
+    content: url('../__ideas/img/Culture-and-Education-tablet.jpg');
+  }
+
+  .slide__relaxation {
+    content: url('../__ideas/img/Relaxation-tablet.jpg');
+  }
+
+  .slide__travelling {
+    content: url('../__ideas/img/Travelling-tablet.jpg');
+  }
+}
