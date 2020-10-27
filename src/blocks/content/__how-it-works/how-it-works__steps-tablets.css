@@ -1,4 +1,4 @@
-@media (max-width: 1024px) {
+@media (max-width: 1024px) and (min-width: 540px) {
   .how-it-works__steps {
     width: 97.5%;
   }
