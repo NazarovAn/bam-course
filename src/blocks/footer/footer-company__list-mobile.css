@@ -1,0 +1,6 @@
+@media (max-width: 539px) {
+  .footer-company__list {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}

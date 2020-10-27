@@ -1,0 +1,5 @@
+@media (max-width: 539px) {
+  .developer-logo__title {
+    text-align: inherit;
+  }
+}

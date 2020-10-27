@@ -1,0 +1,12 @@
+@media (max-width: 539px) {
+  .page__footer {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 60px;
+  }
+
+  .footer__partners {
+    padding-top: 20px;
+    padding-bottom: 12px;
+  }
+}

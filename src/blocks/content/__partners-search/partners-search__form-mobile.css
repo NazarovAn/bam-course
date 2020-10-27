@@ -1,0 +1,12 @@
+@media (max-width: 539px) {
+  .partners-search__form {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .partners-search-form__input{
+    margin: 0 0 10px 0;
+  }
+}
