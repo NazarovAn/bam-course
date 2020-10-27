@@ -1,9 +1,9 @@
 .page__footer {
   display: flex;
-  width: 940px;
+  width: 65.3%;
   margin: auto;
   min-height: 192px;
   padding-top: 40px;
   box-sizing: border-box;
-  position: relative;
+  justify-content: space-between;
 }
