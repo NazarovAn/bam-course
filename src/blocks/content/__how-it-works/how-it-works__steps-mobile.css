@@ -1,5 +1,8 @@
 @media (max-width: 539px) {
   .how-it-works__steps {
     flex-wrap: wrap;
+    width: 96%;
+    padding-left: 2%;
+    padding-right: 2%;
   }
 }

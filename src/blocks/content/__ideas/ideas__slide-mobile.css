@@ -1,4 +1,18 @@
 @media (max-width: 740px) {
+  .ideas__slide {
+    width: 96%;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .slide__text {
+    width: 96%;
+  }
+
+  .slide__img {
+    width: 100%;
+  }
+
   .slide__sport-and-activity {
     content: url('../__ideas/img/Sport-and-Activity-mobile.jpg');
   }
